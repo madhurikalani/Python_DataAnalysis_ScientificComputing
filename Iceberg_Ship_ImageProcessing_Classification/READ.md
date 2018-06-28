@@ -3,17 +3,17 @@
 ## Simply run the file  "Image_Processing_Iceberg_Ship.py"
 
 ## Data is stored in data/
-## train_data: train.json
+train_data: train.json
 
 ## Need to install the following package if not present
 
-# Data Manipulation
+## Data Manipulation
 import pandas as pd
 pd.options.display.max_columns = 25
 import numpy as np
 from IPython.display import display
 
-# Visualizations
+## Visualizations
 import matplotlib.pyplot as plt
 %matplotlib inline
 import pylab as plb

@@ -3,7 +3,7 @@
 ## Simply run the file  "Image_Processing_Iceberg_Ship.py"
 
 ## Data is stored in data/
-train_data: train.json
+## train_data: train.json
 
 ## Need to install the following package if not present
 
